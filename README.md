@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AnshumanDhiman&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/AnshumanDhiman/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=AnshumanDhiman&theme=react-dark&hide_border=true">
+  </a>
+</p>
+<hr>
+ <h3 align = "center">📬 Contact Me:</h3>
+<p align='middle'>
+<a href="https://instagram.com/anshuman.dhiman"><img height="43" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/anshuman.dhiman.359"><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/facebook-circled--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AnshumanDhiman5"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anshuman-dhiman-06a7341ab/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+
+
+
+</p>  
