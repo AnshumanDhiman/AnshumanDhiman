@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
- <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AnshumanDhiman&theme=react&background=0d1117&border=666">
-  </a>
   <br>
-  <a href="https://github.com/AnshumanDhiman/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AnshumanDhiman&theme=react-dark&hide_border=true">
-  </a>
-</p>
+    ![](https://github.com/AnshumanDhiman/stats/blob/master/generated/languages.svg)
+    ![](https://github.com/AnshumanDhiman/stats/blob/master/generated/overview.svg)
 <hr>
  <h3 align = "center">📬 Contact Me:</h3>
 <p align='middle'>
