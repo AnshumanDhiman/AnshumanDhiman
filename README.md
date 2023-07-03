@@ -3,8 +3,7 @@
 -  Open Source Maintainer & Contributor
 -  GSoC 2022 @PSF
 -  Mentor @FossOverflow IIT Bhilai
--  Quality Assurance Intern @Paytm
--  Founder @KaleidoUX
+-  SDET @Paytm
 
 #### Connect With Me:
 <a href="https://twitter.com/AnshumanDhiman5">Twitter</a>
