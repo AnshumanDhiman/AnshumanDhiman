@@ -1,7 +1,7 @@
 ### Hello Everyone, I'm Anshuman 😀
 -  Full Stack Developer 
 -  Open Source Maintainer & Contributor
--  GSoC 2022 @PSF
+-  Google Summer of Code 2022 @PSF
 -  Mentor @FossOverflow IIT Bhilai
 -  SDET @Paytm
 
