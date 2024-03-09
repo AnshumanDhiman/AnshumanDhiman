@@ -3,7 +3,9 @@
 -  Open Source Maintainer & Contributor
 -  Google Summer of Code 2022 @PSF
 -  Mentor @FossOverflow IIT Bhilai
--  SDET @Paytm
+-  Ex - SDET @Paytm
+-  Ex- SE @Tata Elxsi
+-  Analyst @Transunion
 
 #### Connect With Me:
 <a href="https://twitter.com/AnshumanDhiman5">Twitter</a>
